@@ -1,2 +1,2 @@
-# IBM---C
+# IBM-C
 IBM Projects
