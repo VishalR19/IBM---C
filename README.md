@@ -1,2 +1,2 @@
-# IBM-C
+# IBM-Appied Data science
 IBM Projects
